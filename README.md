@@ -46,5 +46,5 @@ Este proyecto utiliza la licencia MIT - ver más [LICENSE.md](LICENSE.md) acá.
 ## Agradecimientos
 
 * Un aplauso para todas las personas que comparten código libre, el cual pudimos utilizar.
-* **Matias Blayer** - [PurpleBooth](https://twitter.com/m_blayer)
-* **Nico Quiroz** - [PurpleBooth](https://twitter.com/_nhsz)
+* **Matias Blayer** - [Mentor](https://twitter.com/m_blayer)
+* **Nico Quiroz** - [Mentor](https://twitter.com/_nhsz)
